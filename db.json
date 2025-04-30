@@ -8,15 +8,21 @@
       },
       "MID": "MID20252",
       "MD": "IRFP4468 is N channel power mosfet with VDSS = 100V, RDS = 2.6mR, ID = 195A || High Efficiency Synchronous Rectification in SMPS || Uninterruptible Power Supply ||  High Speed Power Switching || Hard Switched and High Frequency Circuits || Alternate Datasheet: https://www.infineon.com/dgdl/Infineon-IRFP4468-DataSheet-v01_01-EN.pdf?fileId=5546d462533600a40153562c73472019",
-      "MT": "Electronic Comp.",
+      "MT": "Electronic Material",
       "MQNT": 39,
-      "MQATG": "#CLASS1",
+      "MQATG": "#CLASS_1",
       "ML": "101",
+      "MCost": 0,
       "MDS": "http://skory.gylcomp.hu/alkatresz/IRFP4468pbf.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
       "MR": "https://drive.google.com/file/d/1CbUZP14PGifEk56jIh_G-aLWz6iYj1kU/view?usp=drive_link",
       "MaterialImages": [
-        "https://media-hosting.imagekit.io//888342d02ad64278/WhatsApp%20Image%202025-03-22%20at%2012.38.51%20PM.jpeg?Expires=1837236143&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Xz1VcCh1~ZvLEU6ZAKl0tLooxMWRNsozawAENyhneOWuuDIy2aokAItt~l0SLxU2R6jYfOmzF-D4qBx9wr8elnWPh3itd1b7AagafJ0KSRcQBQ3-~BAFRuPsL1ud8SeEDvB5CmF3kgzXWpEukYyu6hJV8oViOyWmdYX7YpZjHuV69KXRHUiqxoBp~uNvytObdXzlI-UXW9OVdDJqG7mQ4492igW-0mnXziH9vuXV2y1JxumH9WVuNHyiC7QS7Fl4M4js5qjIACqpvPPQ~Adha4nNvkFbpbfp2oCkU3RMXdEMdwSieQ1aZTtxwLsI94UhEXQLqyd94QGALugOt673Lg__",
-        "https://media-hosting.imagekit.io//adec6cee6b9c4cb4/WhatsApp%20Image%202025-03-22%20at%2012.38.51%20PM%20(1).jpeg?Expires=1837236014&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=SvSFHENV~1IqzzRhQ0GE~I0Q1eIljULwwzNss8-u8FqZovnsa~7HI9~y7tAuIcE6i1xzVHQcOsySewOUTLw-T4o2MMhfVEzJmPzLiqfdp88iqkPzr6wRUQ2TD0oUg7jZYavEZ1NHaiVcaWgcISKPabUIZk~DP8tpdripEGffDJohvsJAnuJ-d4xh7f5DM4mtcGKpO7tS5HPB12u8SxNK8e8YKeFJavyCUPguYc0Yt~Iw4lBrOZnmqtXXYq1vesxpPvmdGQLq8atBydkmLcoNMxCph119CoLWpxxW1mV1ZAbH3GOumYdJycMM8-UH2hBebuPE35aH5WsErJ2LICAHHA__"
+        "https://media-hosting.imagekit.io//888342d02ad64278/WhatsApp%20Image%202025-03-22%20at%2012.38.51%20PM.jpeg?Expires=1837236143\u0026Key-Pair-Id=K2ZIVPTIP2VGHC\u0026Signature=Xz1VcCh1~ZvLEU6ZAKl0tLooxMWRNsozawAENyhneOWuuDIy2aokAItt~l0SLxU2R6jYfOmzF-D4qBx9wr8elnWPh3itd1b7AagafJ0KSRcQBQ3-~BAFRuPsL1ud8SeEDvB5CmF3kgzXWpEukYyu6hJV8oViOyWmdYX7YpZjHuV69KXRHUiqxoBp~uNvytObdXzlI-UXW9OVdDJqG7mQ4492igW-0mnXziH9vuXV2y1JxumH9WVuNHyiC7QS7Fl4M4js5qjIACqpvPPQ~Adha4nNvkFbpbfp2oCkU3RMXdEMdwSieQ1aZTtxwLsI94UhEXQLqyd94QGALugOt673Lg__",
+        "https://media-hosting.imagekit.io//adec6cee6b9c4cb4/WhatsApp%20Image%202025-03-22%20at%2012.38.51%20PM%20(1).jpeg?Expires=1837236014\u0026Key-Pair-Id=K2ZIVPTIP2VGHC\u0026Signature=SvSFHENV~1IqzzRhQ0GE~I0Q1eIljULwwzNss8-u8FqZovnsa~7HI9~y7tAuIcE6i1xzVHQcOsySewOUTLw-T4o2MMhfVEzJmPzLiqfdp88iqkPzr6wRUQ2TD0oUg7jZYavEZ1NHaiVcaWgcISKPabUIZk~DP8tpdripEGffDJohvsJAnuJ-d4xh7f5DM4mtcGKpO7tS5HPB12u8SxNK8e8YKeFJavyCUPguYc0Yt~Iw4lBrOZnmqtXXYq1vesxpPvmdGQLq8atBydkmLcoNMxCph119CoLWpxxW1mV1ZAbH3GOumYdJycMM8-UH2hBebuPE35aH5WsErJ2LICAHHA__"
       ]
     }
   ]
