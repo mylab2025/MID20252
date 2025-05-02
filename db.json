@@ -9,7 +9,7 @@
       "MID": "MID20252",
       "MD": "IRFP4468 is N channel power mosfet with VDSS = 100V, RDS = 2.6mR, ID = 195A || High Efficiency Synchronous Rectification in SMPS || Uninterruptible Power Supply ||  High Speed Power Switching || Hard Switched and High Frequency Circuits || Alternate Datasheet: https://www.infineon.com/dgdl/Infineon-IRFP4468-DataSheet-v01_01-EN.pdf?fileId=5546d462533600a40153562c73472019",
       "MT": "Electronic Material",
-      "MQNT": 39,
+      "MQNT": 40,
       "MQATG": "#CLASS_1",
       "ML": "101",
       "MCost": 456.75,
